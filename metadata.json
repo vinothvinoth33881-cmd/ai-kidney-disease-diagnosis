@@ -1,0 +1,7 @@
+{
+  "name": "KidneyAI Diagnosis",
+  "description": "AI-Powered Medical Image Diagnosis System for Kidney Disease with SVM and Decision Tree classification pipeline",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
